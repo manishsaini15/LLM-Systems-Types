@@ -1,0 +1,7 @@
+openai
+google-genai
+huggingface-hub
+pandas
+numpy
+python-dotenv
+jupyter
